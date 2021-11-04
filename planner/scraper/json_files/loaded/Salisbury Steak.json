@@ -1,0 +1,197 @@
+{
+  "meta_data": {
+    "website_name": "The Chunky Chef",
+    "website_address": "https://www.thechunkychef.com/salisbury-steak/",
+    "recipe_author": "Amanda",
+    "recipe_name": "Salisbury Steak",
+    "recipe_description": "Homemade ground beef steaks are smothered in the most amazing mushroom and onion gravy. Salisbury steaks aren't just for tv dinners anymore!"
+  },
+  "ingredients": [
+    {
+      "ingredient_component_name": "Patties",
+      "ingredient_component_list": [
+        {
+          "ingredient": "lean ground beef",
+          "amount": 1.5,
+          "unit": "lbs."
+        },
+        {
+          "ingredient": "yellow onion",
+          "amount": 0.5,
+          "unit": "large"
+        },
+        {
+          "ingredient": "breadcrumbs",
+          "amount": 0.5,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "milk",
+          "amount": 2.0,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 1.0,
+          "unit": "clove"
+        },
+        {
+          "ingredient": "worcestershire sauce",
+          "amount": 1.0,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "kosher salt",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "black pepper",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 1.0,
+          "unit": "large"
+        }
+      ]
+    },
+    {
+      "ingredient_component_name": "Fats for the skillet",
+      "ingredient_component_list": [
+        {
+          "ingredient": "butter",
+          "amount": 2.0,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "olive oil",
+          "amount": 1.0,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "ingredient_component_name": "Mushroom + onion gravy",
+      "ingredient_component_list": [
+        {
+          "ingredient": "yellow onion",
+          "amount": 1.0,
+          "unit": "medium"
+        },
+        {
+          "ingredient": "cremini or baby bella mushrooms",
+          "amount": 8.0,
+          "unit": "oz"
+        },
+        {
+          "ingredient": "reduced sodium beef broth or stock",
+          "amount": 2.0,
+          "unit": "cups"
+        },
+        {
+          "ingredient": "tomato paste",
+          "amount": 1.0,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "soy sauce",
+          "amount": 0.5,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "worcestershire sauce",
+          "amount": 1.0,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "dijon mustard",
+          "amount": 1.0,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "kosher salt",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "black pepper",
+          "amount": 0.25,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "ingredient_component_name": "Slurry",
+      "ingredient_component_list": [
+        {
+          "ingredient": "cornstarch",
+          "amount": 1.0,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "cold water",
+          "amount": 1.5,
+          "unit": "tbsp"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "instruction_set_name": "make patties",
+      "instruction_set_order": "0",
+      "instructions": [
+        {
+          "instruction_step": "0",
+          "instruction_text": "Add breadcrumbs to a large mixing bowl.\u00a0 Grate onion over the bowl and stir grated onion into the breadcrumbs.  There will likely be some onion \"juice\" that goes into the bowl as well, and that's good.  It will add moisture as well as flavor."
+        },
+        {
+          "instruction_step": "1",
+          "instruction_text": "Add remaining patty ingredients and use hands to mix until just combined."
+        },
+        {
+          "instruction_step": "2",
+          "instruction_text": "Use the side of your hand to lightly score the meat in half.\u00a0 Then score each half into 3 sections.\u00a0 Now you have 6 roughly equally sized sections.\u00a0 Scoop out the meat in each section and form into oval shaped patties."
+        },
+        {
+          "instruction_step": "3",
+          "instruction_text": "Heat 1 Tbsp each butter and olive oil in a large skillet over MED HIGH heat.\u00a0 Once hot, add patties and sear about 4-5 minutes per side, until cooked through.\u00a0 Transfer patties to a plate and keep warm."
+        }
+      ]
+    },
+    {
+      "instruction_set_name": "make gravy",
+      "instruction_set_order": "1",
+      "instructions": [
+        {
+          "instruction_step": "0",
+          "instruction_text": "Reduce skillet heat to MED and add 1 Tbsp butter.\u00a0 Add sliced onions and cook for 3 minutes.\u00a0 Add mushrooms and cook another 4-5 minutes."
+        },
+        {
+          "instruction_step": "1",
+          "instruction_text": "Stir in beef broth, scraping the bottom of the skillet to loosen any browned bits.\u00a0 Add tomato paste, soy sauce, Worcestershire sauce, dijon mustard, salt and pepper and whisk or stir to combine well."
+        },
+        {
+          "instruction_step": "2",
+          "instruction_text": "In a small bowl combine cornstarch and water and whisk until smooth.\u00a0 Whisk mixture into the beef gravy and simmer until thickened to your liking, about 2-3 minutes."
+        },
+        {
+          "instruction_step": "3",
+          "instruction_text": "Add patties back to the skillet and spoon gravy over the top of the patties.\u00a0 Cook another minute or two, until everything is heated through."
+        }
+      ]
+    },
+    {
+      "instruction_set_name": "serve",
+      "instruction_set_order": "2",
+      "instructions": [
+        {
+          "instruction_step": "0",
+          "instruction_text": "Serve patties hot, over mashed potatoes or noodles if you like, with a generous spoonful or two of gravy over the top, sprinkled with minced fresh parsley (if desired)."
+        }
+      ]
+    }
+  ]
+}

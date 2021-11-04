@@ -1,0 +1,5 @@
+03/14/21 - 21:55:49 || https://www.thechunkychef.com/classic-pumpkin-pie/ || - error in scrape_instruction_data  -- <class 'IndexError'>
+03/14/21 - 23:27:32 || https://www.thepetitecook.com/sweet-potato-pasta/
+ || - error in _scrape_ingredient_unit_of_measurement  -- <class 'IndexError'>
+03/14/21 - 23:29:18 || https://www.thepetitecook.com/sweet-potato-pasta/
+ || - error in _scrape_ingredient_unit_of_measurement  -- <class 'IndexError'>

@@ -1,0 +1,24 @@
+{% extends 'planner/base.html' %}
+
+{% block content %}
+
+{% load crispy_forms_tags %}
+<div class="container">
+	<form method="POST">
+		{% csrf_token %}
+		<fieldset class="form-group">
+			<legend class="boarder-bottomm mb-4">Log In</legend>
+			{{ form|crispy }}
+		</fieldset>
+		<div class="form-group">
+			<button class="btn btn-outline-info" type="submit">Log In</button>
+		</div>
+	</form>
+	<div class="boarder-top pt-3">
+		<small class="text-muted">
+			Do you need an account?<a class="ml-2" href="{% url 'register' %}">Register</a>
+		</small>
+	</div>
+</div>
+
+{% endblock %}

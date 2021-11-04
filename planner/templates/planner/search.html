@@ -1,0 +1,22 @@
+{% extends 'planner/base.html' %}
+
+{% block content %}
+
+<div class="main">
+	<div class='searchbar'>
+		<form method="get">
+			{{ filter.form }}
+		<button class="btn search" type="submit">SEARCH</button>	
+		</form>
+	</div>
+	{% for r in recipe %}
+		<div class="recipe">
+			<li><a href="{% url 'planner:recipe' recipe_id=r.id %}">{{ r.recipe_name }}</a></li>
+			<li><i>{{ r.recipe_description }}</i></li>
+			<li><b> From: </b> {{ r.recipe_website_name }}</i></li>
+			<li><b> By: </b> {{ r.recipe_author }}</i></li>
+		</div>
+	{% endfor %}
+</div>
+
+{% endblock%}

@@ -1,0 +1,110 @@
+{
+  "meta_data": {
+    "website_name": "The Petite Cook\u2122",
+    "website_address": "https://www.thepetitecook.com/crostata-italian-jam-tart/\n",
+    "recipe_author": "Andrea",
+    "recipe_name": "Crostata - Italian Jam Tart",
+    "recipe_description": "Make crostata like an italian nonna! This super easy Italian jam tart recipe features dairy-free olive oil pasta frolla and your favourite jam - perfect for breakfast or snack time!"
+  },
+  "ingredients": [
+    {
+      "ingredient_component_name": "none",
+      "ingredient_component_list": [
+        {
+          "ingredient": "confectioner sugar",
+          "amount": 140.0,
+          "unit": "g"
+        },
+        {
+          "ingredient": "medium-large egg",
+          "amount": 1.0,
+          "unit": "none"
+        },
+        {
+          "ingredient": "medium-large egg yolk",
+          "amount": 1.0,
+          "unit": "none"
+        },
+        {
+          "ingredient": "high-quality extra-virgin olive oil",
+          "amount": 90.0,
+          "unit": "ml"
+        },
+        {
+          "ingredient": "zest of 1 lemon",
+          "amount": "NONE",
+          "unit": "none"
+        },
+        {
+          "ingredient": "a pinch of salt",
+          "amount": "NONE",
+          "unit": "none"
+        },
+        {
+          "ingredient": "baking powder",
+          "amount": 1.0,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "all-purpose flour or flour 00",
+          "amount": 280.0,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "ingredient_component_name": "none",
+      "ingredient_component_list": [
+        {
+          "ingredient": "high-quality fruit jam or preserve",
+          "amount": 300.0,
+          "unit": "gr"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "instruction_set_name": "main",
+      "instruction_set_order": "0",
+      "instructions": [
+        {
+          "instruction_step": "0",
+          "instruction_text": "Whisk the sugar, eggs, olive oil, lemon zest and a pinch of salt in a large bowl. "
+        },
+        {
+          "instruction_step": "1",
+          "instruction_text": "Gradually incorporate the flour and baking powder until the dough begins to form."
+        },
+        {
+          "instruction_step": "2",
+          "instruction_text": "Transfer the dough to a work surface and continue to add the flour, whilst working the dough with your hands until you have a smooth even dough (you'll probably have some leftover flour, it's ok). Flatten into a disk, wrap with cling film and store in the fridge for 30 minutes."
+        },
+        {
+          "instruction_step": "3",
+          "instruction_text": "Preheat oven to 170\u00b0C conventional oven ( 150\u00b0C with fan option), and arrange the oven tray onto the middle shelf."
+        },
+        {
+          "instruction_step": "4",
+          "instruction_text": "Roll the dough on a lightly floured surface, until is about 0.5 cm thick. Transfer to an 8\" (20 cm) tart pan. Trim the pan of any extra dough and prick the base with the tongs of a fork."
+        },
+        {
+          "instruction_step": "5",
+          "instruction_text": "Spread the pastry shell with enough jam to cover the base fully and evenly."
+        },
+        {
+          "instruction_step": "6",
+          "instruction_text": "Use the remaining dough to form long strips or ropes about 2 cm large (&frac23;''), and arrange half of them over the base."
+        },
+        {
+          "instruction_step": "7",
+          "instruction_text": "Arrange the remaning strips over the first ones forming a crisscross pattern. "
+        },
+        {
+          "instruction_step": "8",
+          "instruction_text": "Bake the jam tart in the oven for 35-40 minutes, or until it's golden on top. Remove from the oven and let it cool completely before cutting into slices."
+        }
+      ]
+    }
+  ]
+}

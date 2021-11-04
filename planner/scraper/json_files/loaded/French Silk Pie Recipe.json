@@ -1,0 +1,162 @@
+{
+  "meta_data": {
+    "website_name": "Spoon Fork Bacon",
+    "website_address": "https://www.spoonforkbacon.com/french-silk-pie/\n",
+    "recipe_author": "Jenny Park",
+    "recipe_name": "French Silk Pie Recipe",
+    "recipe_description": "The best French Silk Pie recipe you'll taste! It's rich, creamy, light, fluffy and sits in a buttery, Nilla wafer crust!"
+  },
+  "ingredients": [
+    {
+      "ingredient_component_name": "crust",
+      "ingredient_component_list": [
+        {
+          "ingredient": "finely crushed nilla wafers",
+          "amount": 2.25,
+          "unit": "cups"
+        },
+        {
+          "ingredient": "cinnamon",
+          "amount": 0.25,
+          "unit": "teaspoon"
+        },
+        {
+          "ingredient": "(1 stick) unsalted butter",
+          "amount": 0.5,
+          "unit": "cup"
+        }
+      ]
+    },
+    {
+      "ingredient_component_name": "filling",
+      "ingredient_component_list": [
+        {
+          "ingredient": "superfine sugar",
+          "amount": 1.0,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "large eggs",
+          "amount": 4.0,
+          "unit": "none"
+        },
+        {
+          "ingredient": "semisweet chocolate",
+          "amount": 8.0,
+          "unit": "ounces"
+        },
+        {
+          "ingredient": "(2 sticks) unsalted butter, softened",
+          "amount": 1.0,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "heavy whipping cream",
+          "amount": 1.5,
+          "unit": "cups"
+        },
+        {
+          "ingredient": "vanilla extract",
+          "amount": 2.0,
+          "unit": "teaspoons"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 0.25,
+          "unit": "teaspoon"
+        }
+      ]
+    },
+    {
+      "ingredient_component_name": "garnish",
+      "ingredient_component_list": [
+        {
+          "ingredient": "heavy whipping cream",
+          "amount": 2.0,
+          "unit": "cups"
+        },
+        {
+          "ingredient": "superfine sugar",
+          "amount": 0.33,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "vanilla extract",
+          "amount": 1.0,
+          "unit": "teaspoon "
+        },
+        {
+          "ingredient": "shaved bittersweet chocolate",
+          "amount": 1.0,
+          "unit": "ounce"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "instruction_set_name": "crust",
+      "instruction_set_order": "0",
+      "instructions": [
+        {
+          "instruction_step": "0",
+          "instruction_text": "Place Nilla wafer crumbs, cinnamon and melted butter into a mixing bowl and stir together until completely combined. "
+        },
+        {
+          "instruction_step": "1",
+          "instruction_text": "Pour mixture into the bottom of a 9\u201d pie dish and press into the bottom and sides of the pan, in an even layer. Place crust in the freezer for at least 1 hour. "
+        }
+      ]
+    },
+    {
+      "instruction_set_name": "filling",
+      "instruction_set_order": "1",
+      "instructions": [
+        {
+          "instruction_step": "0",
+          "instruction_text": "Place sugar and eggs in a heatproof bowl and beat together with an electric hand mixer.  "
+        },
+        {
+          "instruction_step": "1",
+          "instruction_text": "Place bowl over a pot filled with 1 1/2 inches water simmering over low heat. Cook mixture, while beating with electric hand mixer, until pale yellow, thick and has doubled in volume, about 7 minutes. Remove from heat and cool.  "
+        },
+        {
+          "instruction_step": "2",
+          "instruction_text": "Stir melted and cooled chocolate into the mixture and beat until fully incorporated and smooth. Remove from heat and set aside until mixture has completely cooled. "
+        },
+        {
+          "instruction_step": "3",
+          "instruction_text": "In a stand mixer, fitted with a paddle attachment (or in another mixing bowl and using electric hand mixer), beat butter until light and fluffy. Add cooled chocolate mixture to the butter and continue to beat until fully combined, scraping down sides of the bowl. "
+        },
+        {
+          "instruction_step": "4",
+          "instruction_text": "In another mixing bowl beat together cream and vanilla until stiff peaks form. Fold whipped cream into chocolate mixture until fully combined and mixture is light and fluffy. "
+        },
+        {
+          "instruction_step": "5",
+          "instruction_text": "Pour filling into frozen crust and smooth top. Place pie in the refrigerator for at least 4 hours or until filling has set.  "
+        }
+      ]
+    },
+    {
+      "instruction_set_name": "garnish/whipped cream topping",
+      "instruction_set_order": "2",
+      "instructions": [
+        {
+          "instruction_step": "0",
+          "instruction_text": "In a mixing bowl combine cream, sugar and vanilla. Whisk mixture together until stiff peaks just form (can use electric hand or stand mixer with whisk attachment). "
+        }
+      ]
+    },
+    {
+      "instruction_set_name": "assemble",
+      "instruction_set_order": "3",
+      "instructions": [
+        {
+          "instruction_step": "0",
+          "instruction_text": "Remove pie from refrigerator and top with sweetened whipped cream and a sprinkle of shaved chocolate. Serve.  "
+        }
+      ]
+    }
+  ]
+}

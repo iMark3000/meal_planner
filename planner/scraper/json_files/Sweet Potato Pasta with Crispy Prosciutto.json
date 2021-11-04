@@ -1,0 +1,87 @@
+{
+  "meta_data": {
+    "website_name": "The Petite Cook\u2122",
+    "website_address": "https://www.thepetitecook.com/sweet-potato-pasta/\n",
+    "recipe_author": "Andrea",
+    "recipe_name": "Sweet Potato Pasta with Crispy Prosciutto",
+    "recipe_description": "Bursting with flavour, this sweet potato pasta with crispy prosciutto makes a great option for a quick family dinner."
+  },
+  "ingredients": [
+    {
+      "ingredient_component_name": "main",
+      "ingredient_component_list": [
+        {
+          "ingredient": "thin slices of parma ham",
+          "amount": 4.0,
+          "unit": "none"
+        },
+        {
+          "ingredient": "extra-virgin olive oil",
+          "amount": 2.0,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "yellow onion",
+          "amount": 0.5,
+          "unit": "none"
+        },
+        {
+          "ingredient": "american sweet potato",
+          "amount": 1.0,
+          "unit": "none"
+        },
+        {
+          "ingredient": "penne pasta",
+          "amount": 370.0,
+          "unit": "g"
+        },
+        {
+          "ingredient": "baby spinach leaves",
+          "amount": 80.0,
+          "unit": "g"
+        },
+        {
+          "ingredient": "sea salt and freshly-cracked black pepper",
+          "amount": "NONE",
+          "unit": "none"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "instruction_set_name": "main",
+      "instruction_set_order": "0",
+      "instructions": [
+        {
+          "instruction_step": "0",
+          "instruction_text": "Heat a skillet over medium-low heat, add in the thin strips of prosciutto and let them cook for about 3 minutes, until they\u2019re crispy on all sides. Remove them from the skillet and set them aside."
+        },
+        {
+          "instruction_step": "1",
+          "instruction_text": "Return the skillet to medium heat, add in the extra-virgin olive oil followed by the sweet potato and onion, and cook the vegetables until the sweet potato cubes have slightly softened and are crispy around the edges. Add a splash of water if the vegetables begin to brown too much."
+        },
+        {
+          "instruction_step": "2",
+          "instruction_text": "Place a large pot of water over high heat and bring to a boil. Lightly season with sea salt, then add the pasta and let it cook for about 7-9 minutes."
+        },
+        {
+          "instruction_step": "3",
+          "instruction_text": "Look at the instructions on your pasta packaging. See how long it tells you to boil it for, and drain the pasta three minutes before this time to have it al dente."
+        },
+        {
+          "instruction_step": "4",
+          "instruction_text": "Add the spinach into the skillet with the vegetables, and cook for a further 2 minutes, then add in the crispy prosciutto and turn the heat off. Adjust seasoning by adding a pinch of sea salt and freshly-cracked black pepper to taste."
+        },
+        {
+          "instruction_step": "5",
+          "instruction_text": "Drain the pasta al dente, add it to the pan with the vegetables and saut\u00e9 all the ingredients for one more minute."
+        },
+        {
+          "instruction_step": "6",
+          "instruction_text": "Remove the pan from the heat, season the pasta with freshly cracked black pepper and serve immediately."
+        }
+      ]
+    }
+  ]
+}

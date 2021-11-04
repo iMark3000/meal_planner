@@ -1,0 +1,82 @@
+{
+  "meta_data": {
+    "website_name": "The Chunky Chef",
+    "website_address": "https://www.thechunkychef.com/classic-pumpkin-pie/",
+    "recipe_author": "Amanda",
+    "recipe_name": "Classic Pumpkin Pie",
+    "recipe_description": "Pumpkin Pie is smooth and creamy, perfectly spiced, and so easy to make!\u00a0 The perfect dessert for the holidays, and the only pumpkin pie recipe you'll need."
+  },
+  "ingredients": [
+    {
+      "ingredient_component_name": "main",
+      "ingredient_component_list": [
+        {
+          "ingredient": "pie crust",
+          "amount": 1.0,
+          "unit": "none"
+        },
+        {
+          "ingredient": "pumpkin puree",
+          "amount": 15.0,
+          "unit": "oz can"
+        },
+        {
+          "ingredient": "eggs",
+          "amount": 2.0,
+          "unit": "large"
+        },
+        {
+          "ingredient": "light brown sugar",
+          "amount": 0.5,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "granulated sugar",
+          "amount": 0.25,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "ground cinnamon",
+          "amount": 1.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "kosher salt",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "ground ginger",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "ground nutmeg",
+          "amount": 0.25,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "ground cloves",
+          "amount": 0.125,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "evaporated milk",
+          "amount": 12.0,
+          "unit": "oz can"
+        },
+        {
+          "ingredient": "whipped cream",
+          "amount": "NONE",
+          "unit": "none"
+        },
+        {
+          "ingredient": "sprinkle of ground cinnamon",
+          "amount": "NONE",
+          "unit": "none"
+        }
+      ]
+    }
+  ],
+  "instructions": []
+}

@@ -1,0 +1,27 @@
+{% extends 'planner/base.html' %}
+
+{% block content %}
+
+{% load crispy_forms_tags %}
+<div class="container">
+	<div class="greeting">
+		<h1>Hello, {{ user.username }}!</h1>
+	</div>
+
+	{% if meals %}
+		<h3><u>Here are your upcmming planned meals</u></h3>
+
+		<table class="dashboard-table">
+			{% for meal in meals %}
+			<tr>
+				<td>{{ meal.date }}</td>
+				<td>{{ meal.recipe }}</td>
+			</tr>
+			{% endfor %}
+		</table>
+	{% else %}
+		<h2>You have not planned any meals yet!</h2>
+	{% endif %}
+</div>
+
+{% endblock %}

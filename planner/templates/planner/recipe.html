@@ -1,0 +1,56 @@
+{% extends 'planner/base.html' %}
+
+{% block content %}
+
+	<div class="container">
+		<div class="recipe-info">
+			<h1>{{ recipe.recipe_name }}</h1>
+			<p><i>{{ recipe.recipe_description }}</i></p>
+		</div>
+		<div class="form-container">
+			<form action="" method="post">
+				{% csrf_token %}
+				<div class="input-wrapper">
+					{{ form.date.errors }}
+					<label for="{{ form.date.id_for_label }}">Date: </label>
+					{{ form.date }}
+					<input type="submit" value="submit">
+				</div>
+			</form>
+		</div>
+		<div class="ingredient-info">
+			<h2>Ingredients</h2>
+			<ul>
+			{% for recipe_set, info in ingredient_info.items %}
+				
+				{% if ingredient_headers == True %}
+					<h3><u> {{ recipe_set }} </u></h3>
+				{% endif %}
+				
+				{% for ingredient in info %}
+					<li>{{ ingredient }}</li>
+				{% endfor %}
+
+			{% endfor %}
+			</ul>
+		</div>
+
+		<div class="instruction-info">
+			<h2>Instructions</h2>
+			<ol>
+				{% for instruction_set, info in instruction_info.items %}
+					{% if instruction_headers %}
+						<h3><u> {{ instruction_set }} </u></h3>
+					{% endif %}
+
+					{% for instruction in info %}
+						<li>{{ instruction }}</li>
+					{% endfor %}
+
+				{% endfor %}
+
+			</ol>
+		</div>
+	</div>
+
+{% endblock %}

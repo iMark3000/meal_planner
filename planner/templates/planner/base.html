@@ -1,0 +1,38 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="{% static 'planner/css/sheet.css' %}">
+	</head>
+	<body>
+		<!-- Side navigation -->
+		<div class="sidenav">
+		  <a href="{% url 'planner:search' %}">Search Recipes</a>
+		  {% if user.is_authenticated %}
+			<a href="{% url 'dashboard' %}">My Dashboard</a>
+		  	<a href="#">My Meal Plan</a>
+			<a href="{% url 'grocery_list' %}">My Grocery List</a>
+		  	<a href="{% url 'logout' %}">Logout</a>
+		  {% else %}
+		  	<a href="{% url 'login' %}">Login</a>
+		  {% endif %}
+		</div>
+
+		<!-- Page content -->
+		
+		{% if messages %}
+			{% for message in messages %}
+				<div class="alert alert-{{ message.tags }}">
+					{{ message }}
+				</div>
+			{% endfor %}
+		{% endif %}
+
+		{% block content %}
+
+
+		{% endblock %}
+
+	</body>
+</html>

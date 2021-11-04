@@ -1,0 +1,41 @@
+{% extends 'planner/base.html' %}
+
+{% block content %}
+
+{% load crispy_forms_tags %}
+<div classhttps://www.imagefap.com/pictures/9382166/beautiful="container">
+
+	{% if ingredients %}
+
+	<div class="grocery-list-title-container">
+		<h2><u>Grocery List</u></h2> 
+		<p><i> Through {{ date_end }}</i></p>
+	</div>
+	<div class="grocery-list-table-container">
+		<table class="grocery-list-table">
+			<tr>
+				<th></th>
+				<th class="ingredient-header"><b>INGREDIENT</b></th>
+				<th class="amount-header"><b>AMOUNT</b></th>
+				<th class="unit-header"><b>UNIT OF MEASUREMENT</b></th>
+			</tr>
+			{% for ingredient in ingredients %}
+			<tr>
+				<td>
+					<input type="checkbox" id="ingredient" name="ingredient" value="ingredient">
+				</td>
+				<td class="ingredient-cell">{{ ingredient.ingredient }}</td>
+				<td class="amount-cell">{{ ingredient.amount }}</td>
+				<td class="unit-cell">{{ ingredient.unit_of_measurement }}</td>
+			</tr>
+			{% endfor %}
+		</table>
+	</div>
+	{% else %}
+	<div class="grocery-list-title-container">
+		<h2>You have not planned any meals yet!</h2>
+	</div>
+	{% endif %}
+</div>
+
+{% endblock %}

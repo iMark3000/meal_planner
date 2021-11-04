@@ -1,0 +1,80 @@
+{
+  "meta_data": {
+    "website_name": "The Petite Cook\u2122",
+    "website_address": "https://www.thepetitecook.com/potato-gnocchi/\n",
+    "recipe_author": "Andrea",
+    "recipe_name": "How to Make Potato Gnocchi",
+    "recipe_description": "Simple but so satisfying. Making Italian Potato Gnocchi from scratch only requires 3 simple ingredients and are guaranteed to wow your guests!"
+  },
+  "ingredients": [
+    {
+      "ingredient_component_name": "main",
+      "ingredient_component_list": [
+        {
+          "ingredient": "floury potatoes",
+          "amount": 1.0,
+          "unit": "kg"
+        },
+        {
+          "ingredient": "plain flour + extra if needed",
+          "amount": 300.0,
+          "unit": "gr"
+        },
+        {
+          "ingredient": "small free-range egg",
+          "amount": 1.0,
+          "unit": "none"
+        },
+        {
+          "ingredient": "a pinch of sea salt",
+          "amount": "NONE",
+          "unit": "none"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "instruction_set_name": "main",
+      "instruction_set_order": "0",
+      "instructions": [
+        {
+          "instruction_step": "0",
+          "instruction_text": "Boil the potatoes whole and unpeeled until fork-tender, about 20-30 minutes."
+        },
+        {
+          "instruction_step": "1",
+          "instruction_text": "Cut each potato lengthwise, and using a spoon, scoop potato flesh into a ricer fitted with the finest disk. Press the potato flesh onto a clean work surface, spreading it into an even layer, and season with a pinch of salt."
+        },
+        {
+          "instruction_step": "2",
+          "instruction_text": "Mix in \u00bd the amount of the flour, then add \u00bd the egg and knead. Repeat one more time, kneading the dough gently, and incorporating the remaining flour until you the dough reaches a soft but compact consistency."
+        },
+        {
+          "instruction_step": "3",
+          "instruction_text": "Slice a small portion of dough and gently roll into a thread about \u00bd inch thick."
+        },
+        {
+          "instruction_step": "4",
+          "instruction_text": "Cut the thread into 1-inch thick logs, then make an indent with your index finger and roll each gnocco on a gnocchi board, or \"mark\" them on the tines of a fork."
+        },
+        {
+          "instruction_step": "5",
+          "instruction_text": "Transfer gnocchi to a well-floured baking tray and repeat with remaining dough."
+        },
+        {
+          "instruction_step": "6",
+          "instruction_text": "Cook gnocchi in lightly salted soft-boiling water, for 1-2 minutes until they rise on the surface,"
+        },
+        {
+          "instruction_step": "7",
+          "instruction_text": "Spoon them out with a slotted spoon, mix them with your favorite sauce and serve."
+        },
+        {
+          "instruction_step": "8",
+          "instruction_text": "if you don't intend to boil the gnocchi right away, you should freeze them in a single layer (see notes), and then drop them frozen directly into the boiling water when needed."
+        }
+      ]
+    }
+  ]
+}
